@@ -1,7 +1,7 @@
 # Ubuntu Apache2
 Linux computers worden veel gebruikt als webservers
 
-## Demo installagtie en gebruik vagrant
+## Demo installatie en gebruik vagrant
 Youtube: https://youtu.be/KABnIuaA8SM
 
 ## Voorwaarden software
