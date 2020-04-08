@@ -27,6 +27,7 @@ De opdracht voldoet ***minimaal*** aan de volgende voorwaarden:
 ## Opdracht server
 
 Je gaat een server maken die aan de volgende voorwaarden voldoet:
+1 bla
 1 Linux Ubuntu server (nieuwste versie) deze server biedt de volgende services:
   * Webserver;
     * minimaal één website mogelijk.
