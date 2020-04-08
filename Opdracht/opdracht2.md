@@ -36,5 +36,5 @@ Je gaat een server maken die aan de volgende voorwaarden voldoet:
 4. Zorg voor een ftp mogelijkheid om de html mappen te vullen;
 5. de taken die geautomatiseerd kunnen worden ***(denk aan de backups)*** dienen te gebeuren door middel van scripts.
 
-##Belangrijk
+## Belangrijk
 Ben je eerder klaar en er is nog tijd over, vraag bij de docent voor een extra uitdaging!!
