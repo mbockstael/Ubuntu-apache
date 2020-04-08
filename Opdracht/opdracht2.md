@@ -1,11 +1,11 @@
 ![Linux logo](https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg)
 
 
-# Linux apache opdracht
+# Linux Apache opdracht
 
 Linux wordt vaak gebruikt op computers waar diverse omgevingen worden gehost, bijvoorbeeld een webserver. Voor deze opdracht ga je een webserver maken, op deze webserver moet minimaal één website kunnen draaien.
 
-Het is ***belangrijk*** dat je de stappen documenteert. Doe dit vanaf het beginzodat je altijd terug kan grijpen op vorige stappen als er iets fout gaat. Ook is het ***belangrijk*** dat u snapshots maakt van uw virtuele machines.
+Het is ***belangrijk*** dat je de stappen documenteert. Doe dit vanaf het begin zodat je altijd terug kan grijpen op vorige stappen als er iets fout gaat. Ook is het ***belangrijk*** dat u snapshots maakt van uw virtuele machines.
 
 **Succes met de opdracht!!**
 
