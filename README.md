@@ -21,7 +21,7 @@ De volgende software is nodig:
 Open <b>Git Bash</b> in Windows en typ de volgende commandos:
 1. cd Documents;
 2. mkdir vagrant && cd vagrant *(tenzij de map vagrant al bestaat)*;
-3. git clone https://github.com/mbockstael/ubuntu-eind.git;
+3. git clone https://github.com/mbockstael/Ubuntu-apache.git;
 4. **cd Ubuntu-apache**;
 5. vagrant up;
 6. vagrant ssh;
