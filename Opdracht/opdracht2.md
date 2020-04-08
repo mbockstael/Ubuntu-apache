@@ -1,4 +1,4 @@
-![Linux logo](https://images.app.goo.gl/1xHsXKNaHLdygQFn7)
+![Linux logo](https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg)
 
 
 # Linux apache opdracht
