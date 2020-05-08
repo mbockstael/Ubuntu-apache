@@ -3,7 +3,6 @@ useradd -m student -s /bin/bash
 usermod -aG sudo student
 echo student:Welcome01 | chpasswd
 passwd -e student
-
 SCRIPT
 
 
