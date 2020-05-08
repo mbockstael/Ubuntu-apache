@@ -20,6 +20,9 @@ Vagrant.configure('2') do |config|
     config.vm.define :Ubuntu_eind, primary: true do |machine|
         machine.vm.host_name = "ubuntu.apache"
         machine.vm.network "private_network", ip: "192.168.10.101"
+
+        machine.vm.provider "virtualbox" do |vb|
+          vb.cpus = 1
         end
 
 	# Copy from folder to notes
